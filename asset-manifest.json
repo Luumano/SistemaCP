@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SistemaCP/static/css/main.143c956f.css",
+    "main.js": "/SistemaCP/static/js/main.94431fe7.js",
+    "index.html": "/SistemaCP/index.html",
+    "main.143c956f.css.map": "/SistemaCP/static/css/main.143c956f.css.map",
+    "main.94431fe7.js.map": "/SistemaCP/static/js/main.94431fe7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.143c956f.css",
+    "static/js/main.94431fe7.js"
+  ]
+}
